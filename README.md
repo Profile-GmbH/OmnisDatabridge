@@ -1,2 +1,4 @@
 # OmnisDatabridge
-Scripts for managing the OmnisDataBdrige
+AppleScripts for managing the OmnisDataBdrige.
+
+To use them in a production-environement save them as an application.
